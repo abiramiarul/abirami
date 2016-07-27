@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(void) {
 	int array[100];
 	int i,noOfElements,max=0,min=0,minPos,maxPos;
