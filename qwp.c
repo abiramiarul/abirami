@@ -4,7 +4,7 @@ int main()
 int n,x,pair,i;
 printf("enter the child");
 scanf("%d",&n);
-printf("pairs");
+printf("pair");
 scanf("%d",&pair);
 for(i=0;i<2*n;i++)
 {
